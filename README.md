@@ -10,5 +10,4 @@
 - 🔭 I’m currently working on Nelogica as a Software Developer
 - 🌱 I’m currently learning Machine learning (Pytorch, Deep Learning) 
 - 📫 How to reach me: adilsonfrankneia@gmail.com  
-- ⚡ Fun fact: Optimize code until you die... or no ¯\_(ツ)_/¯  
 
