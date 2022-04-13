@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adilson-f-6b7825134/)](https://www.linkedin.com/in/adilson-f-6b7825134/)
 
 
-- 🔭 I’m currently working on Nelogica as a Software Developer
+<!--- 🔭 I’m currently working on Nelogica as a Software Developer -->
 - 🌱 I’m currently learning Machine learning (Pytorch, Deep Learning) 
 - 📫 How to reach me: adilsonfrankneia@gmail.com  
 
