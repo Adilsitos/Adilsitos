@@ -8,6 +8,6 @@
 
 
 <!--- 🔭 I’m currently working on Nelogica as a Software Developer -->
-- 🌱 I’m currently learning Machine learning (Pytorch, Deep Learning) 
+- 🌱 I’m currently learning more distributed and concurrent systems 
 - 📫 How to reach me: adilsonfrankneia@gmail.com  
 
